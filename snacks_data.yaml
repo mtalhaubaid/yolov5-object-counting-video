@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/yolov5/snacks_dataset/train/images
+val: /content/drive/MyDrive/yolov5/snacks_dataset/valid/images
+test: /content/drive/MyDrive/yolov5/snacks_dataset/test/images
+
+nc: 4
+names: ['bistiks', 'cupcake', 'rio', 'sooper']
+
